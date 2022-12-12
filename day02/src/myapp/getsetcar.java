@@ -10,6 +10,9 @@ public class getsetcar {
     public getsetcar(String registration) 
     //
 
+
+    // note: 'constructions' are 'methods' with the share/void-thing
+
     public String getColour() {
         return this.colour;
     }
